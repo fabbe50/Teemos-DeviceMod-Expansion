@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tdme",
+  "name": "Teemo's Device Mod Expansion",
+  "description": "My expansions of MrCrnayfish's Device Mod..",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["fabbe50"],
+  "credits": "MrCrayfish for his Device Mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
