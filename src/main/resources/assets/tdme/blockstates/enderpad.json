@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "normal": { "model": "tdme:enderpad" },
+    "inventory": { "model": "tdme:enderpad" }
+  }
+}
